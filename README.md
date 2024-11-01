@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/av-vatni/av-vatni/output/snake.svg" alt="Snake animation" />
-
-###
